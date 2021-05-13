@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PartyInvitation</string>
+
+    <string name="party_invitation_activity_title">Вечеринка</string>
+    <string name="acceptedInvitationTitle">С Вами придут</string>
+    <string name="ownerName">Пригласил(а): %1$s</string>
+
+</resources>

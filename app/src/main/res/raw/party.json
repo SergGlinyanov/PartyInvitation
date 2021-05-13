@@ -1,0 +1,14 @@
+{
+  "Id":1,
+  "PartyImageUrl":"https://media.gettyimages.com/photos/having-champagne-together-picture-id638627978?s=2048x2048",
+  "PartyName":"Именины",
+  "PartyOwner":{"AvatarImgUrl":"https://randomuser.me/api/portraits/women/65.jpg","Id":1,"Name":"Екатерина"},
+  "ListAcceptedInvitations":
+	[
+	{"AvatarImgUrl":"https://randomuser.me/api/portraits/men/70.jpg","Id":2,"Name":"Вася"},
+	{"AvatarImgUrl":"https://i.imgur.com/KS7Q2TL.jpg","Id":3,"Name":"Тося"},
+	{"AvatarImgUrl":"https://i.imgur.com/kJCWUAo.jpg","Id":4,"Name":"Лиза"},
+	{"AvatarImgUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0ODU5Nzk2OV5BMl5BanBnXkFtZTcwMzI2ODgyNQ@@._V1_UY256_CR4,0,172,256_AL_.jpg","Id":5,"Name":"Женя"},
+	{"AvatarImgUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UY256_CR2,0,172,256_AL_.jpg","Id":6,"Name":"Виталик"}
+	]
+}
